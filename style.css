@@ -1,0 +1,19 @@
+#addBookSection{
+    width: 70%;
+    margin: 50px auto;
+
+}
+#stripe{
+    background-color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+#showBooks
+{   
+        width: 70%;
+        margin: 50px auto;
+ 
+}
+.message{
+    display: none;
+}
